@@ -4,7 +4,7 @@
 
 1. Git clone this repository
 ```
-$ git clone https://github.com/huyg1108/emotion-predictor-miniproject
+git clone https://github.com/huyg1108/emotion-predictor-miniproject
 ```
 2. Install and run:
 
